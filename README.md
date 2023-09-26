@@ -13,12 +13,6 @@
   - [11 - Implemente a função oldestFromFirstSpecies](#11-implemente-a-função-oldestFromFirstSpecies)
   - [12 - Implemente a função increasePrices](#12-implemente-a-função-increasePrices)
   - [13 - Implemente a função employeeCoverage](#13-implemente-a-função-employeeCoverage)
-- [Avisos finais](#avisos-finais)
-  - [Code Review](#revisando-um-pull-request)
-  - [Avaliação do projeto](#avaliação-do-projeto)
-  - [Ordem dos requisitos no avaliador automático](#ordem-dos-requisitos-no-avaliador-automático)
-
---- 
 
 ## Entregáveis
 
